@@ -19,10 +19,10 @@ The application takes two user inputs. The users selects a candidate and the num
 
 ## Ganache Log
 
-![Accounts](images/ganache_accounts.png)
+![Accounts](ganache_accounts.png)
 
 
-![Transactions](images/ganache_transactions.png)
+![Transactions](ganache_transactions.png)
 ---
 
 ## License
